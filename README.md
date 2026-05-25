@@ -59,6 +59,6 @@ The machine learning model classifies Iris flower species based on given flower 
 
 ## Output Screenshot
 
-![Screenshot](screenshots/ScreebShot_Task1.png)
+![Screenshot](ScreenShot_Task1.png)
 
 ---
