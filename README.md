@@ -57,7 +57,8 @@ The machine learning model classifies Iris flower species based on given flower 
 
 ---
 
-## GitHub Repository
-Project submitted through GitHub repository as per submission instructions.
+## Output Screenshot
+
+![Screenshot](screenshots/ScreebShot_Task1.png)
 
 ---
